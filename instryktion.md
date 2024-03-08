@@ -60,4 +60,10 @@ git branch -d <имя>
 git log --oneline --graph  
 ```
 
+Локальная копия удаленного репозитрия
+```sh
+git clone
+```
+
+
 
